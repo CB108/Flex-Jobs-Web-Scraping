@@ -1,5 +1,5 @@
 # Flex-Jobs-Web-Scraping
-This was a preliminary EDA into the question - "How can I best spend my time and energy while sesarching for a Data Analyst position?"
+This was a preliminary EDA into the question - "How can I best spend my time and energy while searching for a Data Analyst position?"
 
 The goal was to gain insight into the current job-market by understanding which hard-skills were listed most frequently, and to get a birds-eye view of which words came up most in general in the job-descriptions. 
 
